@@ -29,5 +29,5 @@ A LSTM model for stock price prediction.
 
 #### 1. 克隆仓库
 ```bash
-git clone https://github.com/你的用户名/Stock-Price-Prediction-LSTM.git
+git clone https://github.com/kenson49/Stock-Price-Prediction-LSTM.git
 cd Stock-Price-Prediction-LSTM
